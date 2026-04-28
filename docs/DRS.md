@@ -56,15 +56,10 @@ Painel administrativo para gestão
 ### 5.1 Stacks
 
 #### 5.1.1 Stack Backend 
-Backend
-Node.js ou Python (API REST)
 
 #### 5.1.2 Stack Frontend
-React (Web)
-React Native ou Flutter (Mobile)
 
 #### 5.1.7 Banco de Dados
-PostgreSQL ou MongoDB
 
 ## 6. Modelo de Dados
 Usuário
