@@ -34,21 +34,19 @@ Painel administrativo para gestão
 
 ### RF00 -  Cadastro de Usuário: O sistema deve permitir cadastro com e-mail e senha
 
-### RF01 - Login: O usuário deve conseguir acessar sua conta
 
-### RF02 -  Registrar Denúncia: O usuário pode registrar problemas com descrição, foto e localização
-### RF03 – Visualizar Denúncias: O usuário pode ver denúncias próximas
-### RF04 – Acompanhar Status: O usuário acompanha o andamento (pendente, em análise, resolvido)
-### RF05 – Notificações: O sistema envia atualizações sobre denúncias
-### RF06 – Painel Admin: Administradores podem gerenciar denúncias
+### RF01 -  Registrar Denúncia: O usuário pode registrar problemas com descrição, foto e localização
+### RF02 – Visualizar Denúncias: O usuário pode ver denúncias próximas
+### RF03 – Acompanhar Status: O usuário acompanha o andamento (pendente, em análise, resolvido)
+### RF04 – Notificações: O sistema envia atualizações sobre denúncias
+### RF05  – Painel Admin: Administradores podem gerenciar denúncias
 
 ## 4. Requisitos Não Funcionais
 
 ### RNF00 -Usabilidade: Interface simples e intuitiva
-### RNF01 – Desempenho: Resposta em até 3 segundos
-### RNF02 – Segurança: Dados protegidos (login seguro)
-### RNF03 – Disponibilidade: Sistema disponível 24h
-### RNF04 – Compatibilidade: Funcionar em Android, iOS e Web
+### RNF01 – Segurança: Dados protegidos (login seguro)
+### RNF02 – Disponibilidade: Sistema disponível 24h
+### RNF03 – Compatibilidade: Funcionar em Android, iOS e Web
 
 
 ## 5. Arquitetura Técnica 
