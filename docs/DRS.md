@@ -44,9 +44,8 @@ Painel administrativo para gestão
 ## 4. Requisitos Não Funcionais
 
 ### RNF00 -Usabilidade: Interface simples e intuitiva
-### RNF01 – Segurança: Dados protegidos (login seguro)
-### RNF02 – Disponibilidade: Sistema disponível 24h
-### RNF03 – Compatibilidade: Funcionar em Android, iOS e Web
+### RNF01 – Segurança: Componentes do WS como principal segurança 
+### RNF02 – Compatibilidade: Funcionar em Android, iOS e Web
 
 
 ## 5. Arquitetura Técnica 
